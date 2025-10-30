@@ -38,7 +38,9 @@ El proyecto tuvo como objetivo transformar datos sin normalizar de alumnos y pro
 
 
 ### Proyecto de Git
-!!!!!
+
+https://github.com/luciaaroca/proyecto_SQL_G3.git
+
 
 ## Lecciones aprendidas 📙
 - Importancia de una correcta planificación del modelo de datos antes de la implementación.
