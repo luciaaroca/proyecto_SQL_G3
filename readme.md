@@ -59,7 +59,7 @@ https://github.com/luciaaroca/proyecto_SQL_G3.git
 ---
 
 - Nombre: Luna Pérez
-- GitHub: https://github.com/Lunateeka
+- GitHub: https://github.com/LunaPerezT
 ---
 - Nombre: Jose Benegas
 - GitHub:https://github.com/jbenegasb
